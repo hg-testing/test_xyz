@@ -1,0 +1,72 @@
+{
+  "cis": [
+  
+ 
+  {
+  
+  "globalId": null,
+  "type": "Inbound",
+  "artifact_name": "tr.com.kkb.rm.bkmcirows_bkmcirows",
+  "artifact_name": "com.kkb.automation",
+  "properties": {
+    "name" : "*********",
+    "domain": "*********",
+    "environment": "****",
+    "web_service_application" : "N/A",
+    "****_project" : "*********-****",
+    "****_gw_service_name" : "*********",
+    "scope" : "*********",
+    "timeout" : "N/A",
+    "ws_type" : "REST",
+    "rest_method" : "N/A",
+    "****_resource" : "/inb/*********-****/********/v1",
+    "version" : "N/A",
+    "****_gt_endpoint_dev" : "https://****gwd.abc.com.tr/inb/*********-****/********/v1*",
+    "****_gt_endpoint_test" : "https://****gwt.abc.com.tr/inb/*********-****/********/v1*",
+    "****_gt_endpoint_beta" : "https://****gwb.*********.com/inb/*********-****/********/v1",
+    "****_gt_endpoint_prod" : "https://****gw.*********.com/inb/*********-****/********/v1",
+   
+    "*********_project_key" : "*",
+    "comanization" : "***** sirk **** uyg",
+    "contact_email" : "***************@abc.com.tr"
+  },
+  "identifier": null,
+  "label":  "Inbound WS"
+},{
+  "*****Id": "ef39bf98-e588-48b9-9d3a-c2aa10200aad",
+  "globalId": null,
+  "type": "Inbound",
+  "artifact_name": "com.*********.cbc.*****_cbc-*****-bundle-app",
+  "properties": {
+    "name" : "inb-kapıcı-*-bundle-bundle-*****-service",
+    "domain": "*********",
+    "environment": "PROD",
+    "web_service_application" : "inb-kapıcı-***-bundle-bundle-*****-service",
+    "****_project" : "kapıcı",
+    "****_gw_service_name" : "inb-kapıcı-***-bundle-bundle-*****-service",
+    "scope" : "kapıcı",
+    "timeout" : "N/A",
+    "ws_type" : "REST",
+    "rest_method" : "POST",
+    "****_resource" : "/inb/kapıcı/***-bundle/bundle-*****",
+    "version" : "N/A",
+    "****_gt_endpoint_dev" : "https://****gwd.*********.com/inb/kapıcı/***-bundle/bundle-*****",
+    "****_gt_endpoint_test" : "https://****gwt.*********.com/inb/kapıcı/***-bundle/bundle-*****",
+    "****_gt_endpoint_beta" : "https://****gwb.*********.com/inb/kapıcı/***-bundle/bundle-*****",
+    "****_gt_endpoint_prod" : "https://****gw.*********.com/inb/kapıcı/***-bundle/bundle-*****",
+    "ws_endpoint_dev" : "https://dev-edbundle*****.*********.com/kapıcı***/ws/inb/bundle/*****",
+    "ws_endpoint_test" : "https://test-edbundle*****.*********.com/kapıcı***/ws/inb/bundle/*****",
+    "ws_endpoint_beta" : "https://beta-edbundle*****.*********.com/kapıcı***/ws/inb/bundle/*****",
+    "ws_endpoint_prod" :"https://edbundle*****.*********.com/kapıcı***/ws/inb/bundle/*****",
+    "ws_endpoint_uat" : "https://uat-edbundle*****.*********.com/kapıcı***/ws/inb/bundle/*****",
+    "*********_project_key" : "*********EDR",
+    "comanization" : "***** sirk * Uygulamaları",
+    "contact_email" : "****************@abc.com.tr"
+  },
+  "identifier": null,
+  "label":  "Inbound WS"
+},{
+  "****
+  "globalId": null,
+  "type": "Inbound",
+  "artifact_name": "tr.com.abc.*.*****-****-ear",
